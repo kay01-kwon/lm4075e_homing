@@ -7,6 +7,16 @@ Terminal 1
 lm4075e_homing/build $ sudo ./lm4075e_homing
 ```
 
+Alias
+```
+homing
+```
+
+alais homing='cd ~/Documents/lm4075e_homing/build && sudo ./lm4075e_homing'
+
+Then execute lm4075e controller.
+
+The homing allows for permission for GPIO pwm pin.
 
 Terminal 2
 ```
