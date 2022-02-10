@@ -16,7 +16,7 @@ sudo apt update
 
 3. Install
 ```
-sudo apt-get install code-oss
+sudo apt-get install code
 ```
 
 WiringPi Installation
