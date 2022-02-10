@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.11)
-project(encoder_practice)
+project(lm4075e_homing)
 
 find_library(WIRINGPI_LIBRARIES NAMES wiringPi)
 
