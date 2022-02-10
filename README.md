@@ -1,5 +1,20 @@
 # lm4075e_homing
 
+WiringPi Installation
+
+```
+git clone https://github.com/WiringPi/WiringPi
+```
+
+```
+cd WiringPi
+```
+
+```
+./build
+```
+
+
 First of all, execute lm4075e.
 
 Terminal 1
